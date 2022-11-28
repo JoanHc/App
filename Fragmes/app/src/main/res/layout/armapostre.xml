@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="95dp"
+        android:layout_y="26dp"
+        android:text="Arma tu postre"
+        android:textColor="#EE8DBE"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="138dp"
+        android:layout_y="75dp"
+        android:text="Escoge tu postre"
+        android:textSize="15dp"
+        android:layout_gravity="center"/>
+
+    <ImageButton
+        android:layout_width="141dp"
+        android:layout_height="162dp"
+        android:layout_marginStart="30dp"
+        android:layout_x="238dp"
+        android:layout_y="107dp"
+        android:src="@drawable/PostreCatalogo1"
+         />
+
+    <ImageButton
+        android:layout_width="142dp"
+        android:layout_height="162dp"
+        android:layout_marginStart="32dp"
+        android:layout_x="37dp"
+        android:layout_y="103dp"
+        android:src="@drawable/PostreCatalogo2"
+         />
+
+    <ImageButton
+        android:layout_width="139dp"
+        android:layout_height="163dp"
+        android:layout_marginStart="32dp"
+        android:layout_x="34dp"
+        android:layout_y="291dp"
+        android:src="@drawable/PostreCatalogo3"
+         />
+
+    <ImageButton
+        android:layout_width="140dp"
+        android:layout_height="156dp"
+        android:layout_marginStart="32dp"
+        android:layout_x="241dp"
+        android:layout_y="490dp"
+        android:src="@drawable/PostreCatalogo4"
+         />
+
+    <ImageButton
+        android:layout_width="141dp"
+        android:layout_height="158dp"
+        android:layout_marginStart="32dp"
+        android:layout_x="33dp"
+        android:layout_y="488dp"
+        android:src="@drawable/PostreCatalogo5"
+         />
+
+    <ImageButton
+        android:layout_width="141dp"
+        android:layout_height="160dp"
+        android:layout_marginStart="32dp"
+        android:layout_x="241dp"
+        android:layout_y="298dp"
+        android:src="@drawable/PostreCatalogo6"
+         />
+
+</AbsoluteLayout>
